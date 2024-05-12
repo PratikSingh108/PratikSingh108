@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pratik</h1>
 <h3 align="center">A passionate app developer from India</h3>
 
-<img align="right" alt="coading" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw2-RR6UNUPlvbgTcLp90i4a&ust=1715583611940000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMCXwZDFh4YDFQAAAAAdAAAAABAT">
+<img align="right" alt="coading" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 - 🔭 I’m currently working on [soon](.)
 
